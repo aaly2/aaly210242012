@@ -4,4 +4,5 @@ mydata<-read.csv('mydata.csv',header=TRUE,
                  fill=TRUE,comment.char="")
 
 
+
 tapply(Medal,INDEX=NOC,table)

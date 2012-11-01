@@ -1,40 +1,44 @@
-\name{Problem1}
-\alias{Problem1}
+\name{Problem2}
+\alias{Problem2}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 %%  ~~function to do ... ~~
 }
-\description{ Problem 1 in HW 2
-
+\description{
+%%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
-\usage{
-Problem1(x)
-}
+\usage{}
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{filename}{character vector containing vector the output filename}
-  \item{fcnname}{a function object that is to be plotted}
-  \item{nrange}{a numeric vector with two values and the first value is smaller than the second value}
-  \item{nsample}{the number of points to be evaluated}
-
+  \item{x}{
+%%     ~~Describe \code{x} here~~
 }
 }
-
+\details{
+%%  ~~ If necessary, more details than the description above ~~
+}
 \value{
-No value is returned. The output is a graph in a pdf file.
+%%  ~Describe the value returned
+%%  If it is a LIST, use
+%%  \item{comp1 }{Description of 'comp1'}
+%%  \item{comp2 }{Description of 'comp2'}
+%% ...
 }
-
+\references{
+%% ~put references to the literature/web site here ~
+}
 \author{
-Ahmed Aly <aaly2@jhu.edu>
+%%  ~~who you are~~
 }
 \note{
-tikzDevice does not work so I used pdf instead
+%%  ~~further notes~~
 }
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
-
-
+\seealso{
+%% ~~objects to See Also as \code{\link{help}}, ~~~
+}
 \examples{
 ##---- Should be DIRECTLY executable !! ----
 ##-- ==>  Define data, use random,
