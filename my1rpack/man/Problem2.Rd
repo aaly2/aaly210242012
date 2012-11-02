@@ -11,9 +11,7 @@ Takes data from outside source and makes a table.
 
 \format{Data presented in table}
 
-\details{
-
-}
+\details{ Winter Olypmics Medals data in table format organized by the name of country and number of gold, silver, and bronze}
 \value{
 No value is returned.
 } 

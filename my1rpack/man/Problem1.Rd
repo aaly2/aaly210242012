@@ -1,6 +1,5 @@
 \name{problem1}
 \alias{problem1}
-%- Also NEED an '\alias' for EACH other topic documented here.
 \title{Problem 1}
 \description{ Problem 1 in HW 2}
 \usage{
@@ -25,4 +24,3 @@ No value is returned. The output is a graph in a pdf file.
 
 \examples{}
 
-%
