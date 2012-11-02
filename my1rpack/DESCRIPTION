@@ -1,0 +1,9 @@
+Package:
+Type:Package
+Title:550.400 HW 2
+Version: 1.0
+Date: 10-24-2012
+Author: Ahmed H. Aly
+Maintainer: Ahmed H. Aly <aaly2@jhu.edu>
+Description: Homework 2
+License: GPL-3
