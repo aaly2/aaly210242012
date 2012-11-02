@@ -4,10 +4,10 @@ mydata<-read.csv('mydata.csv',header=TRUE,
                  fill=TRUE,comment.char="")
 attach(mydata)
 
-mytable<-tapply(Medal,INDEX=NOC,table)
+problem2<-tapply(Medal,INDEX=NOC,table)
 
 
-save(mytable, list = character(),
-     file = "problem2.Rda",
+save(problem2, list = character(),
+     file = "problem2.rda",
      ascii = FALSE, version = NULL, envir = parent.frame(),
      eval.promises = TRUE, precheck = TRUE)
